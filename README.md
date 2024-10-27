@@ -49,4 +49,4 @@ Website endpoint URL:
 [S3 Static URL] http://my-106655810832-bucket.s3-website-us-east-1.amazonaws.com/  
 [Direct File Link] http://my-106655810832-bucket.s3.amazonaws.com/index.html
 
-![Web Page Screenshot](Screenshots\6_webpage_view.png)
+![Web Page Screenshot](Screenshots/6_webpage_view.png)
